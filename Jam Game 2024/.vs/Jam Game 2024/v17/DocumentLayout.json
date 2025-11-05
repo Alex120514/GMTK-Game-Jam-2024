@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Corry\\Desktop\\\u4F60\u60F3\u6210\u4E3AGameDev\u5417\uFF1F\\\u9879\u76EE\\GMTK Game Jam\\Jam Game 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150D16C3-4A86-84D7-FA3F-9B2215F6276B}|Assembly-CSharp.csproj|c:\\users\\corry\\desktop\\\u4F60\u60F3\u6210\u4E3Agamedev\u5417\uFF1F\\\u9879\u76EE\\gmtk game jam\\jam game 2024\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150D16C3-4A86-84D7-FA3F-9B2215F6276B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Corry\\Desktop\\\u4F60\u60F3\u6210\u4E3AGameDev\u5417\uFF1F\\\u9879\u76EE\\GMTK Game Jam\\Jam Game 2024\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Corry\\Desktop\\\u4F60\u60F3\u6210\u4E3AGameDev\u5417\uFF1F\\\u9879\u76EE\\GMTK Game Jam\\Jam Game 2024\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:01:23.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

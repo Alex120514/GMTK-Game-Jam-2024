@@ -1,0 +1,4 @@
+repository "Jam Game 2024@hweui@cloud"
+  path "/"
+    br "/main"
+    co "/main"
